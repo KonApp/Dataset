@@ -7,7 +7,7 @@
 3. i am hurt
 4. i feel sick
 5. i feel tired
-6. doctor
+6. 
 7. help me do this
 8. medicine
 9. bandage
