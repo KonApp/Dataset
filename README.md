@@ -11,6 +11,6 @@ This repository contains the list containing all the categories and sub-categori
 6. People : 20 choices
 7. Places : 7+17+6+2+4+5+5+9+8+5+4+5+16+9+2+5 = 109 choices
 8. TimeAndWeather : 8+8+16+7+6+12+12 = 69 choices
-9. Help : 24 choices
+9. Help : 23 choices
 
-A total of **853** flashcards (many are repeated).
+A total of **852** flashcards (many are repeated).
