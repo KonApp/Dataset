@@ -1,72 +1,72 @@
 # Jellow - Eating
+(9 subdirectories, 126 flashcards)
 
 ## Eating
 
-### breakfast
+### 1. breakfast
 
 1. bread
-2. cornflakes
-3. aloo poori
-4. eggs
-5. poha
-6. upma
-7. khichdi
-8. idli
-9. dosa
+2. chutney
+3. cookies
+4. cornflakes
+5. cupcakes
+6. cupcake
+7. dosa
+8. eggs
+9. idli vada
+10. omlette
+11. pancake
+12. paratha
+13. poha
+14. poori
+15. porridge
+16. sambar
+17. sandwich
+18. upma
+19. uttappam
+
+---
+
+### 2. lunch/dinner
+
+1. burger
+2. chicken
+3. crab meat
+4. curd
+5. curry
+6. dal
+7. fish
+8. fruits
+9. noodles
 10. paratha
-11. omlette
-12. medu wada
-13. porridge
-14. sandwich
-15. chutney
-16. sambhaar
-17. uttappam
+11. pasta
+12. pizza
+13. poha
+14. poori
+15. pork
+16. rice
+17. roti
+18. salad
+19. sambar
+20. soup
+21. turkey
 
 ---
 
-### lunch/dinner
+### 3. sweets
 
-1. soup
-2. roti
-3. sabzi
-4. rice
-5. dal
-6. dal khichdi
-7. raita
-8. paratha
-9. curd
-10. fish
-11. chicken
-12. pork
-13. mutton
-14. crab meat
-15. turkey
-16. pizza
-17. salad
-18. pasta
-19. noodles
-20. italian
-21. pav bhaji
-22. bhakri
+1. barfi
+2. cake
+3. gulab jamun
+4. icecream
+5. jalebi
+6. laddoo
+7. rasgulla
+8. sheera
 
 ---
 
-### sweets
-
-1. cake
-2. icecream
-3. gajar halwa
-4. gulab jamun
-5. laddoo
-6. barfi
-7. jalebi
-8. fruit salad
-9. rasgulla
-10. sheera
-
----
-
-### snacks
+### 4. snacks
 
 1. biscuits
 2. chaat
@@ -79,7 +79,7 @@
 
 ---
 
-### fruits
+### 5. fruits
 
 1. apple
 2. banana
@@ -96,15 +96,12 @@
 13. blueberry
 14. jackfruit
 15. pear
-16. sapota
+16. chikoo
 17. cherry
-18. cucumber
-19. tomato
-20. pumpkin
 
 ---
 
-### vegetables
+### 6. vegetables
 
 1. beans
 2. beetroot
@@ -114,73 +111,65 @@
 6. carrot
 7. corn
 8. ladyfinger
-9. mushroom
-10. onion
-11. potato
-12. radish
-13. spinach
-14. sprouts
+9. cucumber
+10. mushroom
+11. onion
+12. potato
+13. pumpkin
+14. radish
+15. spinach
+16. sprouts
 
 ---
 
-### drinks
+### 7. drinks
 
-1. water
-2. milk
-3. bournvita
-4. boost
-5. horlicks
-6. mango juice
-7. apple juice
-8. orange juice
+1. apple juice
+2. chocolate milkshake
+3. cocacola
+4. coffee without sugar
+5. coffee
+6. cold coffee
+7. energy drink
+8. grapes juice
 9. lemon juice
-10. pineapple juice
-11. pepsi
-12. cocacola
-13. mirinda
-14. fanta
-15. maaza
-16. sprite
-17. mountain dew
-18. milkshake
-19. chocolate milkshake
-20. strawberry milkshake
-21. mango milkshake
-22. banana milkshake
-23. sapota milkshake
-24. tea
-25. coffee
-26. tea without sugar
-27. coffee without sugar
-28. black coffee
-29. cold coffee
-30. energy drink
+10. lemon tea
+11. maaza
+12. milkshake
+13. orange juice
+14. pepsi
+15. soft drinks
+16. strawberry juice
+17. strawberry milkshake
+18. tea without sugar
+19. tea
+20. water
 
 ---
 
-### cutlery
+### 8. cutlery
 
 1. bowl
-2. plate
-3. spoon
-4. fork
+2. cup
+3. fork
+4. glass
 5. knife
 6. mug
-7. cup
-8. glass
+7. plate
+8. spoon
 
 ---
 
-### add-ons
+### 9. add-ons
 
 1. butter
 2. jam
-3. salt
-4. pepper
-5. sugar
-6. sauce
-7. pickle
-8. papad
-9. masala
+3. masala
+4. papad
+5. pepper
+6. pickle
+7. salt
+8. sauce
+9. sugar
 
 ---
