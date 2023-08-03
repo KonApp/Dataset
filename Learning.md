@@ -1,4 +1,4 @@
-# Jellow - Learning
+# Learning
 (12 subdirectories, 217 flashcards)
 
 ## Learning
@@ -57,7 +57,6 @@
 50. wolf
 51. zebra
 
----
 
 ### 2. body
 
@@ -82,7 +81,6 @@
 19. tongue
 20. wrist
 
----
 
 ### 3. books
 
@@ -103,7 +101,6 @@
 15. social studies book
 16. story book text book
 
----
 
 ### 4. colors
 
@@ -121,7 +118,6 @@
 12. white
 13. yellow
 
----
 
 ### 5. flowers
 
@@ -135,7 +131,6 @@
 8. rose
 9. sunflower
 
----
 
 ### 6. home objects
 
@@ -167,7 +162,6 @@
 26. washing machine
 27. window
 
----
 
 ### 7. money
 
@@ -179,7 +173,6 @@
 6. inr 200
 7. inr 500
 
----
 
 ### 8. school objects
 
@@ -200,7 +193,6 @@
 15. uniform
 16. water bottle
 
----
 
 ### 9. shapes
 
@@ -222,7 +214,6 @@
 16. trapezium
 17. triangle
 
----
 
 ### 10. stationery
 
@@ -243,7 +234,6 @@
 15. stapler
 16. tape
 
----
 
 ### 11. transport modes
 
@@ -257,7 +247,6 @@
 8. ship
 9. train
 
----
 
 ### 12. vegetables
 
@@ -277,5 +266,3 @@
 14. radish
 15. spinach
 16. sprouts
-
----
