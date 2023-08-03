@@ -1,192 +1,189 @@
 # Jellow - Places
+(16 subdirectories, 105 flashcards)
 
 ## Places
 
-### My House
+### 1. Clinic
 
-1. living room
-2. bedroom
-3. kitchen
-4. study room
-5. play room
-6. bathroom
-7. balcony
-
----
-
-### school
-
-1. teacher
-2. classroom
-3. laboratory
-4. staffroom
-5. library
-6. playground
-7. canteen
-8. computer lab
-9. art class
-10. music class
-11. physical education class
-12. mathematics class
-13. science class
-14. geography class
-15. history class
-16. social studies class
-17. language class
+1. ball pit
+2. blanket
+3. body vest
+4. exercise
+5. group therapy
+6. hand activities
+7. leg exercise
+8. occupational therapy
+9. physiotherapy
+10. play therapy
+11. sensory toy
+12. speech therapy
+13. swing
+14. swiss ball
+15. therapist
+16. trampoline
 
 ---
 
-### mall
+### 2. Friend's house
 
-1. escalator
-2. food court
-3. store
-4. theatre
-5. fun zone
-6. shopping
-
----
-
-### museum
-
-1. science museum
-2. art museum
-
----
-
-### restaurant
-
-1. food
-2. cutlery
-3. menu
-4. drinks
-
----
-
-### theatre
-
-1. movie ticket
-2. popcorn
-3. ice cream
-4. nachos
-5. cold drinks
-
----
-
-### playground
-
-1. swing
-2. slide
-3. merry-go-round
-4. see-saw
-5. jungle gym
-
----
-
-### park
-
-1. bat and ball
-2. lock and key
-3. hide and seek
-4. police and thief
-5. walk
-6. run
-7. cycle
-8. catch-catch
-9. kite
-
----
-
-### shop
-
-1. medical
-2. clothes
-3. grocery
-4. toy
-5. vegetable
-6. fruit
-7. meat
-8. stationery
-
----
-
-### friend’s house
-
-1. play with friend
-2. indoor games
-3. food
-4. drinks
+1. drinks
+2. food
+3. indoor games
+4. play with friend
 5. toilet
 
 ---
 
-### relative’s house
+### 3. hospital
 
-1. meet relatives
+1. doctor
+2. i am hurt
+3. i feel sick
+4. medicine
+5. nurse
+
+---
+
+### 4. library
+
+1. adventure book
+2. book
+3. comic book
+4. favourite book
+5. mystery book
+6. picture book
+7. rhymes book
+8. story book
+9. text book
+
+---
+
+### 5. mall
+
+1. escalator
+2. food court
+3. fun zone
+4. store
+5. theater
+
+---
+
+### 6. museum
+
+1. art museum
+2. science museum
+
+---
+
+### 7. my house
+
+1. balcony
+2. bathroom
+3. bedroom
+4. kitchen
+5. living room
+6. playroom
+7. study room
+
+---
+
+### 8. park
+
+1. bat and ball
+2. catch-catch
+3. hide and seek
+4. kite
+5. lock and key
+6. police and thief
+7. run
+8. walk
+
+---
+
+### 9. shop
+
+1. clothes
+2. fruit
+3. grocery
+4. meat
+5. medical
+6. toy
+7. vegetable
+
+---
+
+### 10. playground
+
+1. jungle gym
+2. merry-go-round
+3. see-saw
+4. slide
+5. swing
+
+---
+
+### 11. relative's house
+
+1. drinks
 2. food
-3. drinks
+3. meet relatives
 4. toilet
 
 ---
 
-### hospital
+### 12. restaurant
 
-1. i feel sick
-2. i am hurt
-3. doctor
-4. nurse
-5. medicine
-
----
-
-### clinic
-
-1. therapist
-2. swiss ball
-3. trampoline
-4. swing
-5. blanket
-6. ball pit
-7. exercise
-8. hand activities
-9. leg exercises
-10. body vests
-11. sensory toys
-12. group therapy
-13. speech therapy
-14. play therapy
-15. physiotherapy
-16. occupational therapy
+1. cutlery
+2. drinks
+3. food
+4. menu
 
 ---
 
-### library
+### 13. school
 
-1. book
-2. comic book
-3. rhymes book
-4. story book
-5. picture book
-6. mystery book
-7. adventure book
-8. textbook
-9. favourite book
+1. art class
+2. canteen
+3. classroom
+4. computer lab
+5. geography class
+6. history class
+7. laboratory
+8. language class
+9. library
+10. math class
+11. music class
+12. physical education class
+13. playground
+14. science class
+15. social studies class
+16. staffroom
+17. teacher
 
 ---
 
-### zoo
+### 14. theatre
+
+1. cold drinks
+2. icecream
+3. nachos
+4. popcorn
+
+---
+
+### 15. worship
+
+1. church
+2. gurudwara
+3. mosque
+4. synagogue
+5. temple
+
+---
+
+### 16. zoo
 
 1. animals
 2. birds
-
----
-
-### worship
-
-1. temple
-2. church
-3. gurudwara
-4. mosque
-5. synagogue
 
 ---
