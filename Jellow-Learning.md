@@ -1,274 +1,260 @@
 # Jellow - Learning
+(11 subdirectories, 201 flashcards)
 
 ## Learning
 
-### Animals and Birds
+### 1. Animals and Birds
 
-1. dog
-2. cat
-3. elephant
-4. lion
-5. parrot
-6. rabbit
-7. cow
-8. duck
-9. donkey
-10. ant
-11. tiger
-12. monkey
-13. pigeon
-14. cockroach
-15. crow
-16. horse
-17. deer
-18. owl
-19. wolf
-20. fox
-21. bear
-22. sheep
-23. goat
-24. pig
-25. fly
-26. giraffe
-27. zebra
-28. mosquito
-29. buffalo
-30. mouse
-31. snake
-32. crocodile
-33. bee
-34. hippopotamus
-35. rhinoceros
-36. fish
-37. penguin
-38. seal
-39. dolphin
-40. whale
-41. shark
-42. tortoise
-43. sparrow
-44. eagle
-45. hawk
-46. vulture
-47. butterfly
-48. frog
-49. peacock
-50. grasshopper
-
----
-
-### body
-
-1. head
-2. hair
-3. eyes
-4. nose
-5. ear
-6. mouth
-7. tongue
-8. neck
-9. shoulder
-10. elbow
-11. wrist
-12. hands
-13. fingers
-14. back
-15. stomach
-16. hip
-17. knee
-18. ankle
-19. legs
-20. toes
+1. ant
+2. bear
+3. bee
+4. buffalo
+5. bug
+6. butterfly
+7. cat
+8. cockroach
+9. cow
+10. crocodile
+11. crow
+12. deer
+13. dog
+14. dolphin
+15. donkey
+16. duck
+17. eagle
+18. elephant
+19. fish
+20. fly
+21. fox
+22. frog
+23. giraffe
+24. goat
+25. grasshopper
+26. hawk
+27. hippopotamus
+28. horse
+29. lion
+30. monkey
+31. mosquito
+32. mouse
+33. owl
+34. parrot
+35. peacock
+36. penguin
+37. pig
+38. pigeon
+39. rabbit
+40. rhinoceros
+41. seal
+42. shark
+43. sheep
+44. snake
+45. sparrow
+46. tiger
+47. turtle
+48. vulture
+49. whale
+50. wolf
+51. zebra
 
 ---
 
-### book
+### 2. body
 
-1. bed time story book
-2. comic book
-3. rhymes book
+1. ankle
+2. back
+3. ear
+4. elbow
+5. eyes
+6. fingers
+7. hair
+8. hands
+9. head
+10. hip
+11. knee
+12. legs
+13. mouth
+14. neck
+15. nose
+16. shoulder
+17. stomach
+18. toes
+19. tongue
+20. wrist
+
+---
+
+### 3. books
+
+1. adventure book
+2. bed time story book
+3. comic book
 4. drawing book
-5. story book
-6. picture book
-7. mystery book
-8. adventure book
-9. school note book
-10. math book
-11. science book
-12. history book
-13. geography book
-14. social studies book
-15. english book
-16. hindi book
-17. marathi book
-18. textbook
-19. favourites
-20. ruled note book
-21. unruled note book
-22. grid note book
-23. rough note book
+5. english book
+6. favourite book
+7. geography book
+8. history book
+9. math book
+10. mystery book
+11. picture book
+12. rhymes book
+13. school notebook
+14. science book
+15. social studies book
+16. story book text book
 
 ---
 
-### colors
+### 4. colors
 
 1. black
 2. blue
 3. brown
-4. green
-5. red
-6. silver
-7. white
-8. yellow
-9. golden
-10. silver
-11. pink
-12. orange
-13. purple
-14. grey
+4. golden
+5. gray
+6. green
+7. orange
+8. pink
+9. purple
+10. red
+11. silver
+12. white
+13. yellow
 
 ---
 
-### shapes
+### 5. flowers
 
-1. standing line
-2. sleeping line
-3. slanting line
-4. circle
-5. rectangle
-6. square
-7. triangle
-8. star
-9. heart
-10. trapezium
-11. cube
-12. rhombus
-13. hexagon
-14. oval
-15. pyramid
-16. diamond
-17. pentagon
-18. freeform
+1. daisy
+2. hibiscus
+3. jasmine
+4. lily
+5. lotus
+6. marigold
+7. orchid
+8. rose
+9. sunflower
 
 ---
 
-### stationery
+### 6. home objects
 
-1. pencil
-2. pen
-3. scale
-4. eraser
-5. sharpener
-6. crayon
-7. blank paper
-8. colored paper
-9. scissors
-10. sticky tape or cello tape
-11. pencil lead
-12. compass
-13. divider
-14. protractor
-15. stapler
-16. paper clip
-17. compass box
-18. pouch
+1. air conditioner
+2. balcony
+3. bathroom
+4. bed
+5. bedroom
+6. chair
+7. clock
+8. computer
+9. cupboard
+10. desk
+11. door
+12. fan
+13. fridge
+14. kitchen
+15. lamp
+16. living room
+17. microwave
+18. mobile phone
+19. playroom
+20. sofa
+21. study room
+22. table
+23. television
+24. toilet
+25. vacuum cleaner
+26. washing machine
+27. window
 
 ---
 
-### school objects
+### 7. money
+
+1. change
+2. inr 10
+3. inr 20
+4. inr 50
+5. inr 100
+6. inr 200
+7. inr 500
+
+---
+
+### 8. school objects
 
 1. bag
-2. lunch box
-3. water bottle
-4. compass box
-5. pouch
-6. homework
-7. school notebooks
-8. textbooks
-9. uniform
-10. shoes
-11. socks
-12. pencil
-13. pen
-14. scale
-15. eraser
-16. sharpener
-17. chalk
+2. chalk
+3. compass box
+4. eraser
+5. homework
+6. lunch box
+7. pen
+8. pencil
+9. scale
+10. school notebook
+11. sharpener
+12. shoes
+13. socks
+14. text book
+15. uniform
+16. water bottle
 
 ---
 
-### home objects
+### 9. shapes
 
-1. window
-2. door
-3. fan
-4. lamp
-5. desk
-6. cupboard
-7. table
-8. chair
-9. toilet
-10. kitchen
-11. living room
-12. bedroom
-13. play room
-14. bathroom
-15. balcony
-16. study room
-17. bed
-18. television
-19. computer
-20. sofa
-21. fridge
-22. microwave
-23. washing machine
-24. vacuum cleaner
-25. clock
-26. tube light
-27. air conditioner
-28. mobile phone
+1. circle
+2. cube
+3. diamond
+4. freeform
+5. heart
+6. hexagon
+7. oval
+8. pentagon
+9. rectangle
+10. rhombus
+11. slanting line
+12. sleeping line
+13. square
+14. standing line
+15. star
+16. trapezium
+17. triangle
 
 ---
 
-### transport modes
+### 10. stationery
 
-1. bus
-2. school bus
-3. car
-4. bicycle
-5. train
-6. auto-rickshaw
-7. bike
-8. airplane
-9. ship
-10. boat
-11. scooter
-
----
-
-### money
-
-1. INR 10
-2. INR 20
-3. INR 50
-4. INR 100
-5. INR 200
-6. INR 500
-7. loose change
+1. blank paper
+2. color paper
+3. compass box
+4. compass
+5. crayon
+6. divider
+7. eraser
+8. paper clip
+9. pen
+10. pencil lead
+11. pencil
+12. scale
+13. scissors
+14. sharpener
+15. stapler
+16. tape
 
 ---
 
-### flowers
+### 11. transport modes
 
-1. orchid
-2. daisy
-3. hibiscus
-4. jasmine
-5. lily
-6. lotus
-7. marigold
-8. mogra
-9. rose
-10. sunflower
+1. aeroplane
+2. bicycle
+3. bike
+4. bus
+5. car
+6. rickshaw
+7. school bus
+8. ship
+9. train
 
 ---
