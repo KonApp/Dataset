@@ -1,4 +1,4 @@
-# Jellow - Greet and Feel
+# Greet and Feel
 (4 subdirectories, 58 flashcards)
 
 ## Greet and Feel
@@ -23,7 +23,6 @@
 16. tired
 17. worried
 
----
 
 ### 2. greetings
 
@@ -42,7 +41,6 @@
 13. how was your day
 14. nice to meet you
 
----
 
 ### 3. questions
 
@@ -56,7 +54,6 @@
 8. who
 9. why
 
----
 
 ### 4. requests
 
@@ -78,5 +75,3 @@
 16. quiet please
 17. thank you
 18. you are welcome
-
----
