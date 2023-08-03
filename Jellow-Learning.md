@@ -1,5 +1,5 @@
 # Jellow - Learning
-(11 subdirectories, 201 flashcards)
+(12 subdirectories, 217 flashcards)
 
 ## Learning
 
@@ -256,5 +256,26 @@
 7. school bus
 8. ship
 9. train
+
+---
+
+### 12. vegetables
+
+1. beans
+2. beetroot
+3. brinjal
+4. cabbage
+5. capsicum
+6. carrot
+7. corn
+8. cucumber
+9. ladyfinger
+10. mushroom
+11. onion
+12. potato
+13. pumpkin
+14. radish
+15. spinach
+16. sprouts
 
 ---
