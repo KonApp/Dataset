@@ -1,4 +1,5 @@
 # Jellow - People
+(1 subdirectory, 18 flashcards)
 
 ## People
 
@@ -16,11 +17,9 @@
 12. teacher
 13. doctor
 14. nurse
-15. shopkeeper
-16. driver
-17. therapist
-18. caregiver
-19. stranger
-20. about me
+15. therapist
+16. caregiver
+17. stranger
+18. about me
 
 ---
