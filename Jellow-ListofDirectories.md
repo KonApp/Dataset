@@ -1,6 +1,5 @@
 # Jellow - List of Directories
 (9 directories)
----
 
 1. greet and feel
     1. greetings
