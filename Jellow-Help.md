@@ -1,28 +1,31 @@
 # Jellow - Help
+(1 subdirectory, 24 flashcards)
 
 ## Help
 
-1. emergency
-2. about me
-3. i am hurt
-4. i feel sick
-5. i feel tired
-6. 
+1. about me
+2. allergy
+3. bandage
+4. danger
+5. emergency
+6. hazards
 7. help me do this
-8. medicine
-9. bandage
-10. water
-11. toilet
-12. unsafe touch
-13. sanitary napkins or pads
-14. allergy
-15. danger
-16. hazards
-17. safety
-18. i am in pain
-19. i was pinched
-20. i was pushed
-21. i was scolded
-22. i was hit
-23. i was touched inappropriately
-24. i was made fun of
+8. help
+9. i am hurt
+10. i am in pain
+11. i feel sick
+12. i feel tired
+13.  i was hit
+14.  i was made fun of
+15.  i was pinched
+16.  i was pushed
+17.  i was scolded
+18.  i was touched inappropriately
+19.  medicine
+20.  safety
+21.  sanitary napkins
+22.  toilet
+23.  unsafe touch
+24.  water
+
+---
