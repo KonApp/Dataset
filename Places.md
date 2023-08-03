@@ -1,4 +1,4 @@
-# Jellow - Places
+# Places
 (16 subdirectories, 105 flashcards)
 
 ## Places
@@ -22,7 +22,6 @@
 15. therapist
 16. trampoline
 
----
 
 ### 2. Friend's house
 
@@ -32,7 +31,6 @@
 4. play with friend
 5. toilet
 
----
 
 ### 3. hospital
 
@@ -42,7 +40,6 @@
 4. medicine
 5. nurse
 
----
 
 ### 4. library
 
@@ -56,7 +53,6 @@
 8. story book
 9. text book
 
----
 
 ### 5. mall
 
@@ -66,14 +62,12 @@
 4. store
 5. theater
 
----
 
 ### 6. museum
 
 1. art museum
 2. science museum
 
----
 
 ### 7. my house
 
@@ -85,7 +79,6 @@
 6. playroom
 7. study room
 
----
 
 ### 8. park
 
@@ -98,7 +91,6 @@
 7. run
 8. walk
 
----
 
 ### 9. shop
 
@@ -110,7 +102,6 @@
 6. toy
 7. vegetable
 
----
 
 ### 10. playground
 
@@ -120,7 +111,6 @@
 4. slide
 5. swing
 
----
 
 ### 11. relative's house
 
@@ -129,7 +119,6 @@
 3. meet relatives
 4. toilet
 
----
 
 ### 12. restaurant
 
@@ -138,7 +127,6 @@
 3. food
 4. menu
 
----
 
 ### 13. school
 
@@ -160,7 +148,6 @@
 16. staffroom
 17. teacher
 
----
 
 ### 14. theatre
 
@@ -169,7 +156,6 @@
 3. nachos
 4. popcorn
 
----
 
 ### 15. worship
 
@@ -179,11 +165,8 @@
 4. synagogue
 5. temple
 
----
 
 ### 16. zoo
 
 1. animals
 2. birds
-
----
