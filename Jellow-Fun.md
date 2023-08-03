@@ -1,104 +1,96 @@
 # Jellow - Fun
+(6 subdirectories, 62 flashcards)
 
 ## Fun
 
-### Indoor games
+### 1. Indoor games
 
-1. puzzle
-2. board game
+1. action figure
+2. art and craft
 3. blocks
-4. lego
-5. chess
-6. snakes and ladders
-7. scrabble
-8. video game
-9. doll
-10. action figure
-11. soft toy
-12. car
-13. truck
-14. art and craft
-15. play with me
-16. play-doh or clay
-17. bubbles
+4. blowing bubbles
+5. board game
+6. car
+7. chess
+8. doll
+9. lego
+10. play with me
+11. play-doh
+12. puzzle
+13. scrabble
+14. snakes and ladders
+15. soft toy
+16. truck
+17. video game
 
 ---
 
-### outdoor games
+### 2. outdoor games
 
-1. playground
-2. park
-3. swing
-4. slide
-5. see-saw
-6. merry-go-round
-7. hide and seek
-8. bat and ball
-9. statue
-10. lock and key
-11. catch-catch
-12. kite
-13. police and thief
-14. marbles
-15. walk
-16. run
-17. cycle
-18. swim
-
----
-
-### sports
-
-1. cricket
-2. badminton
-3. tennis
-4. basketball
-5. dodgeball
-6. volleyball
-7. kho-kho
-8. football
-9. kabaddi
-10. gymnastics
-11. swimming
+1. bat and ball
+2. catch-catch
+3. cycle
+4. hide and seek
+5. kite
+6. lock and key
+7. marbles
+8. merry-go-round
+9. park
+10. playground
+11. police and thief
+12. run
+13. see-saw
+14. slide
+15. statue
+16. swim
+17. walk
 
 ---
 
-### TV
+### 3. sports
 
-1. switch on tv
-2. switch off tv
-3. next channel
+1. badminton
+2. basketball
+3. cricket
+4. dodgeball
+5. football
+6. gymnastics
+7. kabaddi
+8. kho-kho
+9. swimming
+10. tennis
+11. volleyball
+
+---
+
+### 4. TV
+
+1. next channel
+2. power off
+3. power on
 4. previous channel
-5. volume up
-6. volume down
-7. sports
-8. movies
-9. news
-10. music
+5. volume down
+6. volume up
 
 ---
 
-### music
+### 5. music
 
 1. change music
-2. lets dance
-3. volume up
-4. volume down
-5. previous song
-6. next song
+2. let's dance
+3. volume down
+4. volume up
 
 ---
 
-### activities
+### 6. activities
 
-1. draw
-2. paint
-3. read
-4. write
-5. arts and crafts
-6. drama
-7. dance
-8. make music
-9. sing
+1. art and craft
+2. dance
+3. drama
+4. draw
+5. paint
+6. read
+7. write
 
 ---
