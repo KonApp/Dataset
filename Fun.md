@@ -1,4 +1,4 @@
-# Jellow - Fun
+# Fun
 (6 subdirectories, 62 flashcards)
 
 ## Fun
@@ -23,7 +23,6 @@
 16. truck
 17. video game
 
----
 
 ### 2. outdoor games
 
@@ -45,7 +44,6 @@
 16. swim
 17. walk
 
----
 
 ### 3. sports
 
@@ -61,7 +59,6 @@
 10. tennis
 11. volleyball
 
----
 
 ### 4. TV
 
@@ -72,7 +69,6 @@
 5. volume down
 6. volume up
 
----
 
 ### 5. music
 
@@ -81,7 +77,6 @@
 3. volume down
 4. volume up
 
----
 
 ### 6. activities
 
@@ -92,5 +87,3 @@
 5. paint
 6. read
 7. write
-
----
