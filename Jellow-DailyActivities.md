@@ -1,5 +1,5 @@
 # Jellow - Daily Activities
-(11 subdirectories, 136 flashcards)
+(10 subdirectories, 136 flashcards)
 
 ## Daily Activities
 
