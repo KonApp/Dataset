@@ -1,4 +1,4 @@
-# Jellow - Eating
+# Eating
 (9 subdirectories, 126 flashcards)
 
 ## Eating
