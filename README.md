@@ -1,9 +1,7 @@
 # Dataset
----
 This repository contains the directories and sub-directories of flashcards belonging to the KON Application.
 
 ## List of Directories : 9 categories
----
 1. GreetandFeel : 58 cards
 (4 subdirectories)
 
