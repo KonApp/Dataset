@@ -1,4 +1,4 @@
-# Jellow - List of Directories
+# List of Directories
 (9 directories)
 
 1. greet and feel
@@ -6,6 +6,7 @@
     2. feelings
     3. requests
     4. questions
+
 
 2. daily activities
     1. brushing
@@ -19,6 +20,7 @@
     9. bed time routine
     10. habits
 
+
 3. eating
     1. breakfast
     2. lunch/dinner
@@ -30,6 +32,7 @@
     8. cutlery
     9. add-ons
 
+
 4. fun
     1. indoor games
     2. outdoor games
@@ -37,6 +40,7 @@
     4. tv
     5. music
     6. activities
+
 
 5. learning
     1. animals and birds
@@ -52,7 +56,9 @@
     11. flowers
     12. vegetables
 
+
 6. people
+
 
 7. places
     1. my house
@@ -72,6 +78,7 @@
     15. zoo
     16. worship
 
+
 8. time and weather
     1. time
     2. day
@@ -80,5 +87,6 @@
     5. seasons
     6. festivals and holidays
     7. birthdays
+
 
 9. help
