@@ -1,4 +1,4 @@
-# Jellow - Help
+# Help
 (1 subdirectory, 24 flashcards)
 
 ## Help
@@ -27,5 +27,3 @@
 22.  toilet
 23.  unsafe touch
 24.  water
-
----
