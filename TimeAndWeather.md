@@ -1,4 +1,4 @@
-# Jellow - Time and Weather
+# Time and Weather
 (7 subdirectories, 71 flashcards)
 
 ## Time and Weather
@@ -18,7 +18,6 @@
 11. teacher's birthday
 12. my birthday
 
----
 
 ### 2. Day
 
@@ -32,7 +31,6 @@
 8. wednesday
 9. what day is it
 
----
 
 ### 3. festivals and holidays
 
@@ -49,7 +47,6 @@
 11. republic day
 12. ugadi
 
----
 
 ### 4. month
 
@@ -70,7 +67,6 @@
 15. this month
 16. what month is it
 
----
 
 ### 5. seasons
 
@@ -80,7 +76,6 @@
 4. what is current season
 5. winter
 
----
 
 ### 6. time
 
@@ -94,7 +89,6 @@
 8. tomorrow
 9. yesterday
 
----
 
 ### 7. weather
 
@@ -106,5 +100,3 @@
 6. today's weather
 7. weather
 8. windy
-
----
