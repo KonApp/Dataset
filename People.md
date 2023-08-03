@@ -1,4 +1,4 @@
-# Jellow - People
+# People
 (1 subdirectory, 18 flashcards)
 
 ## People
@@ -21,5 +21,3 @@
 16. caregiver
 17. stranger
 18. about me
-
----
