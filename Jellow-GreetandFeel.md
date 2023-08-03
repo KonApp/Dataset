@@ -1,4 +1,5 @@
 # Jellow - Greet and Feel
+(4 subdirectories, 58 flashcards)
 
 ## Greet and Feel
 
